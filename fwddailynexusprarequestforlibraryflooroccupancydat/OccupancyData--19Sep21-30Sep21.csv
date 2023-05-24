@@ -1,0 +1,1173 @@
+Customer,"UCSB"
+Date Range,09/19/2021 - 09/30/2021
+Hour Range,0 - 24
+Days of the Week,"Mon - Sun"
+Time Interval, 1h
+
+Location,Timestamp,Average Occupancy,Peak Occupancy,Time Interval,Location Path
+UCSB Library,09/22/2021 16:00,12,2,1hour,UCSB > UCSB Library
+UCSB Library,09/25/2021 12:00,30,39,1hour,UCSB > UCSB Library
+UCSB Library,09/25/2021 13:00,21,27,1hour,UCSB > UCSB Library
+UCSB Library,09/25/2021 14:00,91,199,1hour,UCSB > UCSB Library
+UCSB Library,09/25/2021 15:00,73,84,1hour,UCSB > UCSB Library
+UCSB Library,09/25/2021 16:00,56,64,1hour,UCSB > UCSB Library
+UCSB Library,09/25/2021 17:00,44,60,1hour,UCSB > UCSB Library
+UCSB Library,09/25/2021 18:00,13,34,1hour,UCSB > UCSB Library
+UCSB Library,09/25/2021 19:00,3,5,1hour,UCSB > UCSB Library
+UCSB Library,09/25/2021 20:00,1,3,1hour,UCSB > UCSB Library
+UCSB Library,09/25/2021 21:00,1,1,1hour,UCSB > UCSB Library
+UCSB Library,09/25/2021 22:00,0,0,1hour,UCSB > UCSB Library
+UCSB Library,09/25/2021 23:00,0,0,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 00:00,0,0,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 01:00,17,22,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 02:00,19,23,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 03:00,19,23,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 04:00,17,19,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 05:00,17,19,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 06:00,17,20,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 07:00,17,20,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 08:00,18,21,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 09:00,19,23,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 10:00,85,114,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 11:00,169,214,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 12:00,336,410,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 13:00,559,629,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 14:00,784,865,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 15:00,876,922,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 16:00,801,886,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 17:00,617,723,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 18:00,427,518,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 19:00,269,362,1hour,UCSB > UCSB Library
+UCSB Library,09/26/2021 20:00,246,305,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 00:00,24,42,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 01:00,19,24,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 02:00,20,23,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 03:00,19,21,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 04:00,18,22,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 05:00,19,21,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 06:00,20,24,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 07:00,29,71,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 08:00,132,502,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 09:00,759,1057,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 10:00,1247,1446,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 11:00,1543,1710,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 12:00,1351,1428,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 13:00,1457,1575,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 14:00,1458,1651,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 15:00,1283,1388,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 16:00,1240,1345,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 17:00,875,1005,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 18:00,642,769,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 19:00,388,491,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 20:00,401,453,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 21:00,360,437,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 22:00,318,424,1hour,UCSB > UCSB Library
+UCSB Library,09/27/2021 23:00,123,216,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 00:00,23,36,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 01:00,22,25,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 02:00,20,23,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 03:00,18,22,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 04:00,17,22,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 05:00,15,20,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 06:00,15,19,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 07:00,33,91,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 08:00,108,330,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 09:00,665,876,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 10:00,1012,1137,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 11:00,1212,1310,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 12:00,1267,1359,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 13:00,1462,1557,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 14:00,1584,1655,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 15:00,1644,1741,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 16:00,1584,1766,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 17:00,1041,1263,1hour,UCSB > UCSB Library
+UCSB Library,09/28/2021 18:00,775,843,1hour,UCSB > UCSB Library
+UCSB Library,09/29/2021 09:00,699,853,1hour,UCSB > UCSB Library
+UCSB Library,09/29/2021 10:00,978,1160,1hour,UCSB > UCSB Library
+UCSB Library,09/29/2021 11:00,1075,1159,1hour,UCSB > UCSB Library
+UCSB Library,09/29/2021 12:00,1058,1214,1hour,UCSB > UCSB Library
+UCSB Library,09/29/2021 13:00,1221,1343,1hour,UCSB > UCSB Library
+UCSB Library,09/29/2021 14:00,1450,1632,1hour,UCSB > UCSB Library
+UCSB Library,09/29/2021 15:00,1360,1502,1hour,UCSB > UCSB Library
+UCSB Library,09/29/2021 16:00,1189,1344,1hour,UCSB > UCSB Library
+UCSB Library,09/29/2021 17:00,816,996,1hour,UCSB > UCSB Library
+UCSB Library,09/29/2021 18:00,549,647,1hour,UCSB > UCSB Library
+UCSB Library,09/29/2021 19:00,362,448,1hour,UCSB > UCSB Library
+UCSB Library,09/29/2021 20:00,354,407,1hour,UCSB > UCSB Library
+UCSB Library,09/29/2021 21:00,380,406,1hour,UCSB > UCSB Library
+UCSB Library,09/29/2021 22:00,323,364,1hour,UCSB > UCSB Library
+UCSB Library,09/29/2021 23:00,165,279,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 00:00,45,72,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 01:00,57,82,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 02:00,22,29,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 03:00,15,20,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 04:00,14,16,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 05:00,15,17,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 06:00,15,18,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 07:00,23,63,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 08:00,104,243,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 09:00,564,742,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 10:00,899,1150,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 11:00,1227,1317,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 12:00,1275,1387,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 13:00,1489,1786,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 14:00,1554,1932,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 15:00,1472,1878,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 16:00,1478,1794,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 17:00,967,1313,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 18:00,771,980,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 19:00,534,617,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 20:00,476,521,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 21:00,482,528,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 22:00,399,451,1hour,UCSB > UCSB Library
+UCSB Library,09/30/2021 23:00,244,371,1hour,UCSB > UCSB Library
+1st Floor,09/25/2021 12:00,26,32,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/25/2021 13:00,22,27,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/25/2021 14:00,75,95,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/25/2021 15:00,73,84,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/25/2021 16:00,56,64,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/25/2021 17:00,44,60,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/25/2021 18:00,13,34,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/25/2021 19:00,3,5,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/25/2021 20:00,1,3,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/25/2021 21:00,1,1,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/25/2021 22:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/25/2021 23:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 00:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 01:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 02:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 03:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 04:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 05:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 06:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 07:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 08:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 09:00,0,1,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 10:00,1,1,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 11:00,10,30,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 12:00,51,85,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 13:00,106,129,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 14:00,129,137,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 15:00,146,159,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 16:00,157,168,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 17:00,145,157,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 18:00,87,128,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 19:00,31,52,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/26/2021 20:00,25,40,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 00:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 01:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 02:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 03:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 04:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 05:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 06:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 07:00,7,44,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 08:00,35,145,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 09:00,199,264,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 10:00,255,295,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 11:00,285,316,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 12:00,264,293,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 13:00,291,329,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 14:00,290,315,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 15:00,265,320,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 16:00,238,261,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 17:00,184,212,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 18:00,141,174,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 19:00,64,99,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 20:00,63,74,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 21:00,48,63,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 22:00,17,44,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/27/2021 23:00,1,2,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 00:00,0,1,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 01:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 02:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 03:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 04:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 05:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 06:00,0,1,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 07:00,12,51,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 08:00,47,127,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 09:00,195,227,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 10:00,241,270,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 11:00,256,274,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 12:00,218,266,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 13:00,257,284,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 14:00,264,293,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 15:00,289,318,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 16:00,280,306,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 17:00,195,249,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/28/2021 18:00,167,186,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/29/2021 09:00,178,243,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/29/2021 10:00,253,305,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/29/2021 11:00,268,297,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/29/2021 12:00,250,281,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/29/2021 13:00,263,314,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/29/2021 14:00,267,289,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/29/2021 15:00,257,285,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/29/2021 16:00,227,266,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/29/2021 17:00,168,233,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/29/2021 18:00,130,174,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/29/2021 19:00,72,111,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/29/2021 20:00,59,75,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/29/2021 21:00,70,77,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/29/2021 22:00,71,79,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/29/2021 23:00,20,54,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 00:00,1,2,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 01:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 02:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 03:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 04:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 05:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 06:00,0,0,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 07:00,5,37,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 08:00,29,92,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 09:00,164,203,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 10:00,220,269,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 11:00,245,262,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 12:00,247,269,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 13:00,288,326,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 14:00,323,357,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 15:00,303,342,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 16:00,267,290,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 17:00,196,225,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 18:00,123,165,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 19:00,94,110,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 20:00,81,95,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 21:00,74,89,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 22:00,38,61,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor,09/30/2021 23:00,13,38,1hour,UCSB > UCSB Library > 1st Floor
+1st Floor Mountain,09/25/2021 12:00,61,24,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/25/2021 14:00,75,95,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/25/2021 15:00,73,84,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/25/2021 16:00,56,64,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/25/2021 17:00,44,60,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/25/2021 18:00,13,34,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/25/2021 19:00,3,5,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/25/2021 20:00,1,3,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/25/2021 21:00,1,1,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/25/2021 22:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/25/2021 23:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 00:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 01:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 02:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 03:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 04:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 05:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 06:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 07:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 08:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 09:00,0,1,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 10:00,1,1,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 11:00,10,30,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 12:00,51,85,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 13:00,106,129,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 14:00,129,137,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 15:00,146,159,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 16:00,157,168,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 17:00,145,157,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 18:00,87,128,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 19:00,31,52,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/26/2021 20:00,25,40,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 00:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 01:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 02:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 03:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 04:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 05:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 06:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 07:00,7,44,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 08:00,35,145,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 09:00,199,264,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 10:00,255,295,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 11:00,285,316,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 12:00,264,293,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 13:00,291,329,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 14:00,290,315,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 15:00,265,320,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 16:00,238,261,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 17:00,184,212,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 18:00,141,174,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 19:00,64,99,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 20:00,63,74,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 21:00,48,63,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 22:00,17,44,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/27/2021 23:00,1,2,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 00:00,0,1,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 01:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 02:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 03:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 04:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 05:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 06:00,0,1,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 07:00,12,51,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 08:00,47,127,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 09:00,195,227,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 10:00,241,270,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 11:00,256,274,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 12:00,218,266,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 13:00,257,284,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 14:00,264,293,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 15:00,289,318,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 16:00,280,306,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 17:00,195,249,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/28/2021 18:00,167,186,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/29/2021 09:00,178,243,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/29/2021 10:00,253,305,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/29/2021 11:00,268,297,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/29/2021 12:00,250,281,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/29/2021 13:00,263,314,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/29/2021 14:00,267,289,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/29/2021 15:00,257,285,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/29/2021 16:00,227,266,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/29/2021 17:00,168,233,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/29/2021 18:00,130,174,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/29/2021 19:00,72,111,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/29/2021 20:00,59,75,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/29/2021 21:00,70,77,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/29/2021 22:00,71,79,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/29/2021 23:00,20,54,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 00:00,1,2,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 01:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 02:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 03:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 04:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 05:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 06:00,0,0,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 07:00,5,37,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 08:00,29,92,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 09:00,164,203,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 10:00,220,269,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 11:00,245,262,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 12:00,247,269,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 13:00,288,326,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 14:00,323,357,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 15:00,303,342,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 16:00,267,290,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 17:00,196,225,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 18:00,123,165,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 19:00,94,110,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 20:00,81,95,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 21:00,74,89,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 22:00,38,61,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Mountain,09/30/2021 23:00,13,38,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Mountain
+1st Floor Ocean,09/25/2021 12:00,20,23,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Ocean
+1st Floor Ocean,09/25/2021 13:00,22,27,1hour,UCSB > UCSB Library > 1st Floor > 1st Floor Ocean
+Art & Architecture,09/25/2021 12:00,8,8,1hour,UCSB > UCSB Library > 1st Floor > Art & Architecture
+2nd Floor,09/22/2021 16:00,12,2,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/25/2021 12:00,3,4,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/25/2021 14:00,16,12,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 01:00,6,9,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 02:00,7,9,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 03:00,7,9,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 04:00,5,6,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 05:00,5,6,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 06:00,5,5,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 07:00,5,6,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 08:00,5,7,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 09:00,6,9,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 10:00,39,51,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 11:00,62,78,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 12:00,122,158,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 13:00,192,215,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 14:00,293,343,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 15:00,345,376,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 16:00,306,329,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 17:00,207,304,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 18:00,148,166,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 19:00,92,134,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/26/2021 20:00,78,114,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 00:00,7,9,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 01:00,6,8,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 02:00,6,8,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 03:00,5,6,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 04:00,6,7,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 05:00,5,7,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 06:00,5,8,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 07:00,8,14,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 08:00,56,218,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 09:00,327,487,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 10:00,595,675,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 11:00,619,703,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 12:00,532,567,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 13:00,550,620,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 14:00,618,675,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 15:00,570,656,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 16:00,509,557,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 17:00,359,420,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 18:00,234,306,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 19:00,160,181,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 20:00,135,163,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 21:00,131,151,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 22:00,141,158,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/27/2021 23:00,71,131,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 00:00,8,15,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 01:00,7,8,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 02:00,7,8,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 03:00,6,9,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 04:00,5,8,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 05:00,6,6,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 06:00,6,7,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 07:00,9,21,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 08:00,45,164,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 09:00,301,398,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 10:00,463,571,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 11:00,534,588,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 12:00,591,653,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 13:00,648,713,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 14:00,666,693,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 15:00,668,748,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 16:00,585,650,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 17:00,375,473,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/28/2021 18:00,327,363,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/29/2021 09:00,194,283,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/29/2021 10:00,246,365,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/29/2021 11:00,262,291,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/29/2021 12:00,282,384,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/29/2021 13:00,293,340,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/29/2021 14:00,302,477,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/29/2021 15:00,263,313,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/29/2021 16:00,245,274,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/29/2021 17:00,182,210,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/29/2021 18:00,110,137,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/29/2021 19:00,41,76,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/29/2021 20:00,74,100,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/29/2021 21:00,99,109,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/29/2021 22:00,81,93,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/29/2021 23:00,33,68,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 00:00,3,6,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 01:00,21,33,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 02:00,8,14,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 03:00,5,8,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 04:00,5,7,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 05:00,5,8,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 06:00,6,8,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 07:00,7,13,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 08:00,36,84,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 09:00,216,286,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 10:00,368,563,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 11:00,516,553,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 12:00,510,558,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 13:00,620,727,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 14:00,660,730,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 15:00,632,674,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 16:00,588,633,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 17:00,419,520,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 18:00,314,369,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 19:00,213,274,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 20:00,177,192,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 21:00,185,200,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 22:00,161,198,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor,09/30/2021 23:00,67,138,1hour,UCSB > UCSB Library > 2nd Floor
+2nd Floor Mountain,09/25/2021 12:00,2,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/25/2021 14:00,16,12,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 01:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 02:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 03:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 04:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 05:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 06:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 07:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 08:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 09:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 10:00,1,2,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 11:00,6,15,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 12:00,48,75,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 13:00,101,132,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 14:00,183,208,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 15:00,206,225,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 16:00,178,191,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 17:00,112,151,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 18:00,78,97,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 19:00,33,68,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/26/2021 20:00,28,58,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 00:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 01:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 02:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 03:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 04:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 05:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 06:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 07:00,1,2,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 08:00,22,112,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 09:00,148,219,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 10:00,301,338,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 11:00,297,350,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 12:00,233,245,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 13:00,247,280,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 14:00,274,312,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 15:00,236,280,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 16:00,225,249,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 17:00,185,209,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 18:00,134,164,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 19:00,97,116,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 20:00,73,99,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 21:00,76,99,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 22:00,92,102,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/27/2021 23:00,52,88,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 00:00,1,8,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 01:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 02:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 03:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 04:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 05:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 06:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 07:00,2,9,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 08:00,14,94,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 09:00,128,168,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 10:00,219,280,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 11:00,235,259,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 12:00,264,298,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 13:00,288,325,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 14:00,302,322,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 15:00,313,354,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 16:00,268,312,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 17:00,186,206,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/28/2021 18:00,142,166,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/29/2021 09:00,178,235,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/29/2021 10:00,233,287,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/29/2021 11:00,262,291,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/29/2021 12:00,274,340,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/29/2021 13:00,293,340,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/29/2021 14:00,286,349,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/29/2021 15:00,263,313,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/29/2021 16:00,245,274,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/29/2021 17:00,182,210,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/29/2021 18:00,110,137,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/29/2021 19:00,41,76,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/29/2021 20:00,74,100,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/29/2021 21:00,99,109,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/29/2021 22:00,81,93,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/29/2021 23:00,33,68,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 00:00,3,6,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 01:00,6,9,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 02:00,0,1,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 03:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 04:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 05:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 06:00,0,0,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 07:00,1,3,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 08:00,7,24,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 09:00,109,150,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 10:00,186,293,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 11:00,244,262,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 12:00,245,302,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 13:00,272,352,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 14:00,324,337,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 15:00,313,332,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 16:00,291,317,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 17:00,214,271,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 18:00,184,194,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 19:00,130,182,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 20:00,103,116,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 21:00,107,120,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 22:00,89,108,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Mountain,09/30/2021 23:00,39,78,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Mountain
+2nd Floor Ocean,09/22/2021 16:00,12,2,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/25/2021 12:00,3,4,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 01:00,6,9,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 02:00,7,9,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 03:00,7,9,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 04:00,5,7,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 05:00,5,6,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 06:00,5,5,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 07:00,5,6,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 08:00,5,7,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 09:00,6,9,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 10:00,38,50,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 11:00,55,66,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 12:00,74,88,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 13:00,90,112,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 14:00,110,143,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 15:00,139,156,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 16:00,129,156,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 17:00,96,154,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 18:00,70,86,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 19:00,59,68,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/26/2021 20:00,50,62,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 00:00,7,9,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 01:00,7,8,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 02:00,6,8,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 03:00,6,7,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 04:00,6,7,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 05:00,5,7,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 06:00,5,8,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 07:00,7,13,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 08:00,33,106,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 09:00,179,267,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 10:00,294,337,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 11:00,322,366,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 12:00,299,327,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 13:00,303,368,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 14:00,344,386,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 15:00,334,402,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 16:00,284,317,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 17:00,174,218,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 18:00,100,152,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 19:00,63,78,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 20:00,61,73,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 21:00,56,80,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 22:00,48,60,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/27/2021 23:00,18,43,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 00:00,7,9,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 01:00,7,9,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 02:00,7,8,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 03:00,6,9,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 04:00,6,8,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 05:00,6,7,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 06:00,5,6,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 07:00,7,12,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 08:00,31,87,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 09:00,172,230,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 10:00,244,291,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 11:00,299,352,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 12:00,327,384,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 13:00,360,398,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 14:00,364,382,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 15:00,354,415,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 16:00,317,374,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 17:00,189,267,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/28/2021 18:00,184,205,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/29/2021 09:00,118,118,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/29/2021 10:00,181,87,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/29/2021 12:00,238,95,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/29/2021 14:00,315,189,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 01:00,16,25,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 02:00,8,13,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 03:00,5,8,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 04:00,6,7,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 05:00,5,8,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 06:00,6,8,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 07:00,6,10,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 08:00,29,65,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 09:00,107,151,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 10:00,182,270,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 11:00,272,304,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 12:00,265,297,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 13:00,349,398,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 14:00,337,404,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 15:00,319,344,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 16:00,297,327,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 17:00,205,249,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 18:00,130,184,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 19:00,83,105,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 20:00,73,86,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 21:00,78,87,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 22:00,72,93,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+2nd Floor Ocean,09/30/2021 23:00,28,60,1hour,UCSB > UCSB Library > 2nd Floor > 2nd Floor Ocean
+4th Floor,09/25/2021 13:00,5,2,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/25/2021 14:00,77,105,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 01:00,0,0,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 02:00,0,0,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 03:00,0,1,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 04:00,0,1,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 05:00,0,1,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 06:00,0,0,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 07:00,0,0,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 08:00,0,1,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 09:00,0,1,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 10:00,29,38,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 11:00,55,60,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 12:00,91,107,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 13:00,160,180,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 14:00,253,299,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 15:00,298,332,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 16:00,265,337,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 17:00,196,245,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 18:00,137,181,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 19:00,96,127,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/26/2021 20:00,92,104,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 00:00,3,16,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 01:00,1,3,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 02:00,1,1,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 03:00,1,2,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 04:00,1,1,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 05:00,1,1,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 06:00,1,1,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 07:00,1,3,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 08:00,16,63,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 09:00,137,190,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 10:00,263,313,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 11:00,436,548,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 12:00,342,403,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 13:00,411,461,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 14:00,316,452,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 15:00,244,431,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 16:00,320,380,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 17:00,209,242,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 18:00,194,235,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 19:00,111,169,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 20:00,158,205,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 21:00,144,227,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 22:00,127,194,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/27/2021 23:00,28,89,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 00:00,1,4,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 01:00,0,2,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 02:00,0,1,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 03:00,1,2,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 04:00,0,1,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 05:00,0,0,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 06:00,0,0,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 07:00,0,0,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 08:00,0,2,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 09:00,91,169,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 10:00,183,232,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 11:00,297,336,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 12:00,326,383,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 13:00,409,475,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 14:00,447,501,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 15:00,445,519,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 16:00,507,595,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 17:00,342,460,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/28/2021 18:00,197,233,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/29/2021 09:00,215,245,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/29/2021 10:00,281,315,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/29/2021 11:00,358,405,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/29/2021 12:00,357,406,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/29/2021 13:00,446,504,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/29/2021 14:00,578,646,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/29/2021 15:00,545,655,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/29/2021 16:00,422,520,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/29/2021 17:00,291,329,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/29/2021 18:00,199,247,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/29/2021 19:00,163,254,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/29/2021 20:00,168,251,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/29/2021 21:00,172,190,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/29/2021 22:00,154,179,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/29/2021 23:00,98,153,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 00:00,21,51,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 01:00,13,29,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 02:00,0,3,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 03:00,0,0,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 04:00,0,0,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 05:00,0,0,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 06:00,0,0,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 07:00,0,4,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 08:00,15,26,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 09:00,115,205,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 10:00,177,214,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 11:00,308,418,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 12:00,356,421,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 13:00,368,550,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 14:00,336,693,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 15:00,296,643,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 16:00,391,601,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 17:00,194,461,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 18:00,243,327,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 19:00,176,211,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 20:00,171,211,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 21:00,173,211,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 22:00,158,194,1hour,UCSB > UCSB Library > 4th Floor
+4th Floor,09/30/2021 23:00,140,167,1hour,UCSB > UCSB Library > 4th Floor
+5th Floor,09/25/2021 14:00,14,18,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 01:00,1,2,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 02:00,1,2,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 03:00,1,2,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 04:00,1,2,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 05:00,1,2,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 06:00,1,2,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 07:00,1,2,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 08:00,1,2,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 09:00,1,2,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 10:00,1,2,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 11:00,3,5,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 12:00,7,8,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 13:00,12,15,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 14:00,17,20,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 15:00,19,22,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 16:00,19,29,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 17:00,9,14,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 18:00,7,8,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 19:00,7,9,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/26/2021 20:00,5,7,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 00:00,2,7,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 01:00,2,5,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 02:00,1,2,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 03:00,1,2,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 04:00,1,2,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 05:00,1,2,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 06:00,3,5,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 07:00,1,3,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 08:00,3,12,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 09:00,19,23,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 10:00,32,45,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 11:00,46,52,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 12:00,40,47,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 13:00,29,38,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 14:00,52,71,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 15:00,45,71,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 16:00,37,46,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 17:00,24,34,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 18:00,8,12,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 19:00,9,12,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 20:00,8,10,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 21:00,9,14,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 22:00,8,13,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/27/2021 23:00,6,8,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 00:00,5,7,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 01:00,4,5,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 02:00,1,4,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 03:00,1,2,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 04:00,2,5,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 05:00,1,1,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 06:00,1,1,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 07:00,1,2,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 08:00,2,7,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 09:00,17,24,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 10:00,34,44,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 11:00,38,47,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 12:00,33,47,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 13:00,35,51,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 14:00,47,59,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 15:00,67,77,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 16:00,62,79,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 17:00,24,39,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/28/2021 18:00,11,16,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/29/2021 09:00,23,35,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/29/2021 10:00,47,64,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/29/2021 11:00,66,81,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/29/2021 12:00,60,78,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/29/2021 13:00,80,94,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/29/2021 14:00,100,115,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/29/2021 15:00,97,110,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/29/2021 16:00,89,103,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/29/2021 17:00,42,60,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/29/2021 18:00,21,30,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/29/2021 19:00,18,24,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/29/2021 20:00,13,18,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/29/2021 21:00,8,10,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/29/2021 22:00,7,9,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/29/2021 23:00,4,7,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 00:00,11,14,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 01:00,8,10,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 02:00,1,3,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 03:00,1,1,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 04:00,1,1,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 05:00,1,1,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 06:00,1,4,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 07:00,1,1,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 08:00,3,4,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 09:00,7,12,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 10:00,15,23,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 11:00,19,29,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 12:00,27,38,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 13:00,49,68,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 14:00,67,82,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 15:00,56,72,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 16:00,38,55,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 17:00,36,49,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 18:00,16,32,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 19:00,8,12,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 20:00,9,14,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 21:00,10,13,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 22:00,9,12,1hour,UCSB > UCSB Library > 5th Floor
+5th Floor,09/30/2021 23:00,8,9,1hour,UCSB > UCSB Library > 5th Floor
+6th Floor,09/25/2021 14:00,8,3,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 01:00,4,5,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 02:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 03:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 04:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 05:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 06:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 07:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 08:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 09:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 10:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 11:00,4,5,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 12:00,5,8,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 13:00,11,14,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 14:00,12,16,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 15:00,10,16,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 16:00,10,11,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 17:00,11,15,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 18:00,7,12,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 19:00,7,14,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/26/2021 20:00,15,16,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 00:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 01:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 02:00,4,5,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 03:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 04:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 05:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 06:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 07:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 08:00,4,5,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 09:00,6,9,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 10:00,14,18,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 11:00,16,22,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 12:00,27,33,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 13:00,30,37,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 14:00,38,46,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 15:00,44,56,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 16:00,38,45,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 17:00,25,34,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 18:00,9,16,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 19:00,6,10,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 20:00,5,5,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 21:00,5,5,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 22:00,5,6,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/27/2021 23:00,4,5,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 00:00,5,6,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 01:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 02:00,5,6,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 03:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 04:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 05:00,5,6,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 06:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 07:00,4,5,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 08:00,5,5,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 09:00,7,10,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 10:00,17,24,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 11:00,22,31,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 12:00,18,27,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 13:00,23,30,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 14:00,38,48,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 15:00,35,44,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 16:00,27,38,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 17:00,22,29,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/28/2021 18:00,16,25,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/29/2021 09:00,9,14,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/29/2021 10:00,24,30,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/29/2021 11:00,40,48,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/29/2021 12:00,24,34,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/29/2021 13:00,36,42,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/29/2021 14:00,63,79,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/29/2021 15:00,67,76,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/29/2021 16:00,55,67,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/29/2021 17:00,28,60,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/29/2021 18:00,14,19,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/29/2021 19:00,11,17,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/29/2021 20:00,5,13,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/29/2021 21:00,5,6,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/29/2021 22:00,4,5,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/29/2021 23:00,4,5,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 00:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 01:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 02:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 03:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 04:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 05:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 06:00,4,4,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 07:00,4,5,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 08:00,4,5,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 09:00,8,13,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 10:00,23,31,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 11:00,26,33,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 12:00,21,29,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 13:00,27,36,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 14:00,36,46,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 15:00,34,40,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 16:00,39,49,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 17:00,23,34,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 18:00,13,16,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 19:00,10,14,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 20:00,8,13,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 21:00,5,6,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 22:00,5,6,1hour,UCSB > UCSB Library > 6th Floor
+6th Floor,09/30/2021 23:00,4,5,1hour,UCSB > UCSB Library > 6th Floor
+7th Floor,09/25/2021 12:00,2,1,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/25/2021 14:00,16,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 01:00,6,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 02:00,6,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 03:00,6,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 04:00,6,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 05:00,6,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 06:00,7,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 07:00,6,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 08:00,7,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 09:00,7,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 10:00,7,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 11:00,13,24,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 12:00,26,35,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 13:00,25,34,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 14:00,27,31,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 15:00,20,31,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 16:00,20,31,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 17:00,19,26,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 18:00,23,37,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 19:00,19,33,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/26/2021 20:00,23,27,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 00:00,8,11,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 01:00,6,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 02:00,7,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 03:00,7,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 04:00,6,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 05:00,7,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 06:00,7,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 07:00,6,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 08:00,9,15,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 09:00,30,39,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 10:00,45,60,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 11:00,80,105,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 12:00,89,106,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 13:00,82,102,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 14:00,84,122,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 15:00,56,74,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 16:00,36,52,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 17:00,23,29,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 18:00,14,17,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 19:00,11,15,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 20:00,10,13,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 21:00,10,12,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 22:00,9,11,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/27/2021 23:00,9,11,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 00:00,9,10,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 01:00,6,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 02:00,7,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 03:00,7,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 04:00,5,8,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 05:00,5,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 06:00,5,7,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 07:00,4,7,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 08:00,6,15,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 09:00,17,35,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 10:00,27,45,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 11:00,32,37,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 12:00,34,45,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 13:00,34,40,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 14:00,52,68,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 15:00,60,88,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 16:00,63,80,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 17:00,37,52,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/28/2021 18:00,16,22,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/29/2021 09:00,38,45,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/29/2021 10:00,70,95,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/29/2021 11:00,33,44,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/29/2021 12:00,27,35,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/29/2021 13:00,41,53,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/29/2021 14:00,76,95,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/29/2021 15:00,63,84,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/29/2021 16:00,80,98,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/29/2021 17:00,49,80,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/29/2021 18:00,33,46,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/29/2021 19:00,26,41,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/29/2021 20:00,9,10,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/29/2021 21:00,9,14,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/29/2021 22:00,8,8,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/29/2021 23:00,10,8,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 00:00,9,11,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 01:00,9,13,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 02:00,8,10,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 03:00,5,9,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 04:00,4,6,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 05:00,5,7,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 06:00,4,6,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 07:00,4,7,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 08:00,8,14,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 09:00,18,32,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 10:00,50,69,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 11:00,60,80,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 12:00,66,89,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 13:00,82,109,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 14:00,61,114,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 15:00,80,156,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 16:00,90,160,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 17:00,66,86,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 18:00,35,54,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 19:00,17,31,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 20:00,22,29,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 21:00,19,23,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 22:00,11,19,1hour,UCSB > UCSB Library > 7th Floor
+7th Floor,09/30/2021 23:00,6,11,1hour,UCSB > UCSB Library > 7th Floor
+8th Floor,09/25/2021 12:00,16,13,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 01:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 02:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 03:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 04:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 05:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 06:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 07:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 08:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 09:00,0,1,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 10:00,4,14,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 11:00,22,28,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 12:00,34,42,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 13:00,53,60,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 14:00,54,65,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 15:00,37,48,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 16:00,25,29,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 17:00,30,37,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 18:00,18,35,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 19:00,18,23,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/26/2021 20:00,8,14,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 00:00,0,1,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 01:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 02:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 03:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 04:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 05:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 06:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 07:00,1,7,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 08:00,9,50,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 09:00,41,65,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 10:00,43,71,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 11:00,61,96,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 12:00,57,73,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 13:00,64,96,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 14:00,70,94,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 15:00,68,107,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 16:00,63,73,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 17:00,50,64,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 18:00,42,61,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 19:00,26,34,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 20:00,24,29,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 21:00,15,18,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 22:00,15,20,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/27/2021 23:00,7,17,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 00:00,2,3,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 01:00,0,2,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 02:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 03:00,0,1,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 04:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 05:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 06:00,0,1,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 07:00,2,10,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 08:00,3,19,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 09:00,37,56,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 10:00,47,80,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 11:00,34,48,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 12:00,46,98,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 13:00,56,76,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 14:00,69,89,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 15:00,80,103,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 16:00,61,77,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 17:00,45,55,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/28/2021 18:00,42,70,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/29/2021 09:00,42,64,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/29/2021 10:00,57,82,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/29/2021 11:00,47,93,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/29/2021 12:00,58,80,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/29/2021 13:00,62,101,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/29/2021 14:00,64,93,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/29/2021 15:00,69,85,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/29/2021 16:00,71,96,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/29/2021 17:00,57,88,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/29/2021 18:00,42,58,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/29/2021 19:00,33,36,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/29/2021 20:00,28,35,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/29/2021 21:00,19,27,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/29/2021 22:00,4,12,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/29/2021 23:00,1,3,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 00:00,1,2,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 01:00,1,2,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 02:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 03:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 04:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 05:00,0,1,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 06:00,0,0,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 07:00,1,6,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 08:00,8,24,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 09:00,36,75,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 10:00,46,95,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 11:00,53,61,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 12:00,49,85,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 13:00,54,84,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 14:00,71,83,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 15:00,72,100,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 16:00,66,91,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 17:00,32,55,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 18:00,26,71,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 19:00,16,21,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 20:00,8,18,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 21:00,16,21,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 22:00,17,20,1hour,UCSB > UCSB Library > 8th Floor
+8th Floor,09/30/2021 23:00,5,16,1hour,UCSB > UCSB Library > 8th Floor
